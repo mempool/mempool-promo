@@ -1,0 +1,100 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.360 --> 00:00:06.480
+Welcome to mempool.space, an open-source project&nbsp;
+that provides data and tools to take your Bitcoin&nbsp;&nbsp;
+
+00:00:06.480 --> 00:00:11.760
+experience to the next level. Our mempool dashboard&nbsp;
+provides an at-a-glance look at the real-time&nbsp;&nbsp;
+
+00:00:11.760 --> 00:00:17.040
+status of a Bitcoin node's mempool. View Bitcoin&nbsp;
+blocks through our one-of-a-kind visualization.
+
+00:00:17.680 --> 00:00:22.480
+Forecasted mempool blocks appear to the left of&nbsp;
+the white line, and confirmed blocks to the right.
+
+00:00:23.520 --> 00:00:27.680
+Take a peek within a forecasted mempool&nbsp;
+blog for a more granular view, including&nbsp;&nbsp;
+
+00:00:27.680 --> 00:00:34.400
+a visualization of included transactions. Drill&nbsp;
+down into the details at the transaction level,
+
+00:00:34.400 --> 00:00:40.480
+and with real-time tracking, you can see the moment&nbsp;
+a transaction confirms. If your transaction funds a&nbsp;&nbsp;
+
+00:00:40.480 --> 00:00:45.440
+new Lightning channel, you can see various details&nbsp;
+about it our new Lightning network explorer.
+
+00:00:46.480 --> 00:00:50.320
+The mempool dashboard also includes&nbsp;
+a fee-estimation widget that helps&nbsp;&nbsp;
+
+00:00:50.320 --> 00:00:53.760
+take the guesswork out of choosing an&nbsp;
+appropriate fee for your transactions.
+
+00:00:54.720 --> 00:00:59.520
+For miners, we've built a mining dashboard&nbsp;
+that provides meaningful metrics including&nbsp;&nbsp;
+
+00:00:59.520 --> 00:01:06.000
+fee and subsidy data, difficulty and hash rate&nbsp;
+stats, pool dominance, and more. Our historical&nbsp;&nbsp;
+
+00:01:06.000 --> 00:01:11.840
+graphs bring all this data together and display it&nbsp;
+across time through beautifully-rendered visuals.
+
+00:01:13.600 --> 00:01:18.880
+mempool.space doesn't have any advertisements or&nbsp;
+third-party tracking. Still, trusted third parties&nbsp;&nbsp;
+
+00:01:18.880 --> 00:01:23.520
+are security holes, and the most private way&nbsp;
+to look up your own addresses and transactions&nbsp;&nbsp;
+
+00:01:23.520 --> 00:01:28.880
+is through your own Bitcoin node. We make this&nbsp;
+easy—you can install your very own instance of&nbsp;&nbsp;
+
+00:01:28.880 --> 00:01:34.800
+mempool.space with just one click on Raspberry Pi&nbsp;
+full-node distros like Umbrel, RaspiBlitz,
+
+00:01:34.800 --> 00:01:40.800
+Start9 embassyOS, and more. Or, for advanced&nbsp;
+users, install our pre-built Docker images on&nbsp;&nbsp;
+
+00:01:40.800 --> 00:01:46.000
+your own server. Additionally, mempool.space is&nbsp;
+integrated into a growing number of popular&nbsp;&nbsp;
+
+00:01:46.000 --> 00:01:52.080
+wallets and exchange. Explore the full&nbsp;
+Bitcoin ecosystem with data from testnet,
+
+00:01:52.080 --> 00:01:59.280
+signet, Liquid, and now the Lightning network. Tap&nbsp;
+into a powerful suite of tools that reveals useful&nbsp;&nbsp;
+
+00:01:59.280 --> 00:02:04.560
+information about the Bitcoin network. Thanks to&nbsp;
+our generous individual and corporate sponsors,
+
+00:02:04.560 --> 00:02:10.640
+the mempool.space website and software are freely&nbsp;
+available for anyone to use. mempool.space itself is&nbsp;&nbsp;
+
+00:02:10.640 --> 00:02:18.800
+entirely self-hosted without any trusted&nbsp;
+third parties. Visit us at mempool.space!
+

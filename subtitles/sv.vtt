@@ -1,0 +1,118 @@
+WEBVTT
+Kind: captions
+Language: sv
+
+00:00:01.189 --> 00:00:06.210
+Välkommen till mempool space, ett öppen-källkodsprojekt
+som erbjuder data och verktyg som tar din
+
+00:00:06.210 --> 00:00:08.570
+Bitcoin-upplevelse till nästa nivå.
+
+00:00:08.570 --> 00:00:13.860
+Vår Mempool dashboard erbjuder en blick-översikt
+över en Bitcoinnods mempool i realtid.
+
+00:00:14.700 --> 00:00:17.800
+Se Bitcoinblock genom vår unika visualisering.
+
+00:00:17.800 --> 00:00:23.255
+Förutsagda Mempoolblock syns till vänster
+av den vita linjen och bekräftade block till höger.
+
+00:00:23.840 --> 00:00:28.960
+Ta en titt inuti ett förutsagt mempoolblock
+för en detaljerad vy, inklusive visualisering
+
+00:00:28.960 --> 00:00:31.120
+av inkluderade transaktioner.
+
+00:00:31.120 --> 00:00:34.710
+Borra ner dig i detaljerna på transaktionsnivå.
+
+00:00:34.710 --> 00:00:39.350
+Och med realtids-spårning, kan du nu se
+just när transaktionen bekräftas!
+
+00:00:39.350 --> 00:00:43.460
+Om din transaktion öppnar en ny Lightning-
+kanal, kan du se diverse detaljer om den
+
+00:00:43.460 --> 00:00:46.719
+på vår nya Lightningutforskare.
+
+00:00:46.719 --> 00:00:51.289
+Mempool-dashboarden innehåller också en avgifts-
+estimeringswidget som hjälper med gissningsarbetet
+
+00:00:51.289 --> 00:00:54.989
+med att välja en lämplig avgift för dina transaktioner.
+
+00:00:54.989 --> 00:00:59.069
+För miners, har vi byggt en Bitcoin mining-
+dashboard som erbjuder meningsfull metrik
+
+00:00:59.069 --> 00:01:05.480
+däribland avgifter, subventionsdata, svårighet-
+och hashrate-statistik, pooldominans och mer.
+
+00:01:05.480 --> 00:01:09.720
+Våra historiska grafer samlar ihop all denna data
+och visar den över tid med
+
+00:01:09.720 --> 00:01:12.280
+vackra renderade visualiseringar.
+
+00:01:13.159 --> 00:01:17.350
+Mempool space har inte någon reklam
+eller tredjepartsspårare.
+
+00:01:17.350 --> 00:01:21.620
+Dock, betrodda tredjeparter är säkerhetshål,
+och det mest privata sättet att kolla upp
+
+00:01:21.620 --> 00:01:25.570
+dina egna addresser och transaktioner är genom
+din egna Bitcoin-nod.
+
+00:01:25.570 --> 00:01:30.170
+Vi gör det enkelt -- du kan installera din
+helt egna instans av Mempool space med endast
+
+00:01:30.170 --> 00:01:35.490
+1 klick på Raspberry Pi fullnoder
+så som Umbrel, RaspiBlitz, Start9 EmbassyOS,
+
+00:01:35.490 --> 00:01:42.250
+och mer --, eller, för avancerade användare, installera
+vår förbyggda Docker-avbild på din egna server.
+
+00:01:42.250 --> 00:01:48.206
+Dessutom är Mempool space integrerad på
+ett växande antal populära plånböcker och handelsplatser.
+
+00:01:48.490 --> 00:01:53.626
+Utforska hela Bitcoin-ekosystemet, med data
+från Testnet, Signet, Liquid,
+
+00:01:53.626 --> 00:01:56.360
+och nu även Lightningnätverket.
+
+00:01:56.360 --> 00:02:01.840
+Använd en kraftfull uppsättning verktyg som erbjuder
+användbar information om Bitcoinnätverket.
+
+00:02:01.840 --> 00:02:06.630
+Tack vare våra generösa individuella och företags-
+sponsorer, är Mempool space och mjukvaran
+
+00:02:06.630 --> 00:02:09.750
+tillgänglig gratis för alla att använda.
+
+00:02:09.750 --> 00:02:14.000
+Mempool space är själv helt självhostad
+utan betrodda tredjeparter.
+
+00:02:14.000 --> 00:02:17.213
+Besök oss på Mempool punkt space.
+
