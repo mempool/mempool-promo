@@ -1,0 +1,97 @@
+WEBVTT
+Kind: captions
+Language: ro
+
+00:00:01.189 --> 00:00:06.210
+Bine ați venit pe mempool.space, un proiect tip sursă deschisă care furnizează date și unelte pentru a-ți duce
+
+00:00:06.210 --> 00:00:08.570
+experiența Bitcoin la nivelul următor.
+
+00:00:08.570 --> 00:00:13.860
+Tabloul nostru de bord pentru mempool oferă dintr-o privire detalii despre starea în timp real a nodului Bitcoin.
+
+00:00:14.700 --> 00:00:17.800
+Vedeți blocurile Bitcoin prin vizualizarea noastra unică.
+
+00:00:17.800 --> 00:00:23.255
+Blocurile mempool anticipate apar în stânga liniei albe, iar blocurile confirmate în partea dreaptă.
+
+00:00:23.840 --> 00:00:28.960
+Inspectați un bloc anticipat din mempool pentru a vedea mai multe detalii, inclusiv un grafic
+
+00:00:28.960 --> 00:00:31.120
+al tranzacțiilor incluse.
+
+00:00:31.120 --> 00:00:34.710
+Caută detaliile la nivelul tranzacțiilor.
+
+00:00:34.710 --> 00:00:39.350
+Și cu monitorizarea în timp real, puteți vedea momentul în care o tranzacție este confirmată!
+
+00:00:39.350 --> 00:00:43.460
+Dacă tranzacția voastră finanțează un canal Lightning nou, puteți vedea diferite detalii despre ea
+
+00:00:43.460 --> 00:00:46.719
+în noul nostru explorator al rețelei Lightning.
+
+00:00:46.719 --> 00:00:51.289
+Tabloul de bord mempool include și estimarea valorii comisionului, astfel că nu mai trebuie sa ghiciți
+
+00:00:51.289 --> 00:00:54.989
+valoarea acestuia pentru tranzacția voastră.
+
+00:00:54.989 --> 00:00:59.069
+Pentru mineri, am construit un panou de bord care furnizează metrici relevante
+
+00:00:59.069 --> 00:01:05.480
+printre care date despre comision și subvenție, statistici despre dificultate și rata hash, dominanța fondurilor și altele.
+
+00:01:05.480 --> 00:01:09.720
+Graficele noastre istorice adună aceste date și le afișează folosind
+
+00:01:09.720 --> 00:01:12.280
+graficele noastre desenate frumos.
+
+00:01:13.159 --> 00:01:17.350
+mempool.space nu are reclamă sau conexiuni ascunse cu alte site-uri web.
+
+00:01:17.350 --> 00:01:21.620
+Totuși, site-urile publice sunt găuri de securitate și modul cel mai privat în care să căutați 
+
+00:01:21.620 --> 00:01:25.570
+adresele și tranzacțiile personale este folosind nodul vostru bitcoin.
+
+00:01:25.570 --> 00:01:30.170
+Noi facem acest lucru ușor - puteți să instalați instanța voastră de mempool.space cu doar 
+
+00:01:30.170 --> 00:01:35.490
+1 clic pe distribuțiile de Raspberry Pi precum Umbrel, RaspiBlitz, Start9 EmbassyOS 
+
+00:01:35.490 --> 00:01:42.250
+și mai multe - sau, pentru utilizatorii avansați, puteți să instalați imaginea noastră Docker pe serverul vostru.
+
+00:01:42.250 --> 00:01:48.206
+În plus, mempool.space este integrat într-un număr tot mai mare de aplicații portofel și exchange-uri.
+
+00:01:48.490 --> 00:01:53.626
+Explorați întregul ecosistem Bitcoin, cu date din rețelele testnet, signet, Liquid,
+
+00:01:53.626 --> 00:01:56.360
+și acum Lightning.
+
+00:01:56.360 --> 00:02:01.840
+Folosiți suita puternică de unelte care furnizează informații utile despre rețeaua bitcoin.
+
+00:02:01.840 --> 00:02:06.630
+Mulțumită generoșilor noștri sponsori individuali și corporate, site-ul și softul mempool.space 
+
+00:02:06.630 --> 00:02:09.750
+sunt disponibile gratuit pentru oricine.
+
+00:02:09.750 --> 00:02:14.000
+Site-ul mempool.space este găzduit de către noi, fără alte terțe părți.
+
+00:02:14.000 --> 00:02:17.213
+Vizitați-ne la mempool.space.
+

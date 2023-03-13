@@ -1,0 +1,119 @@
+WEBVTT
+Kind: captions
+Language: fi
+
+00:00:01.189 --> 00:00:06.210
+Tervetuloa mempool.space, avoimen lähdekoodin projektiin
+joka tarjoaa dataa ja työkaluja, joiden avulla voit
+
+00:00:06.210 --> 00:00:08.570
+Bitcoin kokemuksesi seuraavalle tasolle.
+
+00:00:08.570 --> 00:00:13.860
+mempool-näyttömme tarjoaa yhdellä silmäyksellä katsauksen -
+bitcoin-solmun reaaliaikaiseen mempool-tilaan.
+
+00:00:14.700 --> 00:00:17.800
+Katsele Bitcoin-lohkoja ainutlaatuisen
+visualisointimme läpi.
+
+00:00:17.800 --> 00:00:23.255
+Ennustetut mempool-lohkot näkyvät vasemmalla.
+valkoisen viivan oikealla puolella ja vahvistetut lohkot oikealla.
+
+00:00:23.840 --> 00:00:28.960
+Kurkista ennustetun mempool-lohkon sisälle
+saadaksesi tarkemman näkymän, mukaan lukien visualisoituna siihen
+
+00:00:28.960 --> 00:00:31.120
+sisältyvät siirtotapahtumat.
+
+00:00:31.120 --> 00:00:34.710
+Tutustu yksityiskohtiin siirtotapahtumatasolla.
+
+00:00:34.710 --> 00:00:39.350
+Ja reaaliaikaisen seurannan avulla näet
+hetken, jolloin siirtotapahtuma vahvistetaan!
+
+00:00:39.350 --> 00:00:43.460
+Jos siirtotapahtumasi rahoittaa uuden Salama
+kanavan, voit nähdä siitä erilaisia yksityiskohtia
+
+00:00:43.460 --> 00:00:46.719
+se uudessa Salamaverkon selaimessamme.
+
+00:00:46.719 --> 00:00:51.289
+mempoolin näyttö sisältää myös siirtomaksu
+arvio widgetin, joka auttaa arvaamaan
+
+00:00:51.289 --> 00:00:54.989
+sopivan siirtomaksun valitsemisesta siirroillesi.
+
+00:00:54.989 --> 00:00:59.069
+Louhijoille olemme rakentaneet Bitcoin-louhintajärjestelmä
+näytön, joka tarjoaa hyödyllisiä mittareita
+
+00:00:59.069 --> 00:01:05.480
+mukaan lukien siirtomaksuja ja palkkioita koskevat tiedot, vaikeudensäätö
+ja laskentatehotilastot, poolin hallitsevuus ja paljon muuta.
+
+00:01:05.480 --> 00:01:09.720
+Historialliset kuvaajamme tuovat kaikki nämä tiedot
+yhteen ja näyttävät ne ajassa
+
+00:01:09.720 --> 00:01:12.280
+kauniisti toteutettu visuaalinen ilme.
+
+00:01:13.159 --> 00:01:17.350
+mempool.space ei ole mainoksia
+tai kolmannen osapuolen seurantaa.
+
+00:01:17.350 --> 00:01:21.620
+Silti luotetut kolmannet osapuolet ovat turvallisuus
+aukkoja, ja kaikkein yksityisin tapa etsiä
+
+00:01:21.620 --> 00:01:25.570
+omia osoitteita ja siirtotapahtumia on
+oman Bitcoin-solmun kautta.
+
+00:01:25.570 --> 00:01:30.170
+Teemme tämän helpoksi - voit asentaa
+ikioman instanssin mempool spacesta vain
+
+00:01:30.170 --> 00:01:35.490
+1 klikkauksen Raspberry Pi täyssolmun jakelulla
+kuten Umbrel, RaspiBlitz, Start9 EmbassyOS,
+
+00:01:35.490 --> 00:01:42.250
+ja paljon muuta -- tai, edistyneemmille käyttäjille, asenna
+valmiita Docker imageja omalle palvelimellesi.
+
+00:01:42.250 --> 00:01:48.206
+Lisäksi mempool.space on integroitu
+yhä useampaan suosittuun lompakkoon ja pörssiin.
+
+00:01:48.490 --> 00:01:53.626
+Tutustu koko Bitcoin-ekosysteemiin, jossa on tietoja
+testnetistä, signetistä, Liquid,
+
+00:01:53.626 --> 00:01:56.360
+ja nyt myös salamaverkosta.spacella
+
+00:01:56.360 --> 00:02:01.840
+Hyödynnä tehokkaita työkaluja, jotka paljastavat
+hyödyllisiä tietoja Bitcoin-verkosta.
+
+00:02:01.840 --> 00:02:06.630
+Kiitos anteliaiden yksityishenkilöiden ja yritys
+sponsorien, mempool.space verkkosivusto ja -ohjelmisto
+
+00:02:06.630 --> 00:02:09.750
+ovat vapaasti kaikkien käytettävissä.
+
+00:02:09.750 --> 00:02:14.000
+Mempoolin pace on täysin itse ylläpidetty
+ilman luotettuja kolmansia osapuolia.
+
+00:02:14.000 --> 00:02:17.213
+Vieraile osoitteessa mempool.space.
+
