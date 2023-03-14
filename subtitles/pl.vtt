@@ -1,0 +1,118 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:01.189 --> 00:00:06.210
+Poznaj mempool.space, projekt open source,
+dostarczający dane i narzędzia, które podnoszą
+
+00:00:06.210 --> 00:00:08.570
+doświadczenie używania bitcoina na kolejny poziom.
+
+00:00:08.570 --> 00:00:13.860
+Jednym spojrzeniem na nasz pulpit zobaczysz
+w czasie rzeczywistym stan mempool bitcoinowego węzła
+
+00:00:14.700 --> 00:00:17.800
+Zobacz bloki pokazane przez naszą jedyną w swoim rodzaju wizualizację.
+
+00:00:17.800 --> 00:00:23.255
+Prognozowane bloki pojawiają się po lewej stronie
+białej linii, a potwierdzone bloki po prawej stronie.
+
+00:00:23.840 --> 00:00:28.960
+Podejrzyj prognozowany blok w mempool
+aby uzyskać szczegółowy widok, łącznie z wizualizacją
+
+00:00:28.960 --> 00:00:31.120
+transakcji włączonych w blok.
+
+00:00:31.120 --> 00:00:34.710
+Analizuj szczegółowo dane na poziomie transakcji.
+
+00:00:34.710 --> 00:00:39.350
+Ze śledzeniem w czasie rzeczywistym możesz ujrzeć
+moment, w którym transakcja jest potwierdzona!
+
+00:00:39.350 --> 00:00:43.460
+Jeśli Twoja transakcja finansuje nowy kanał Lightning,
+możesz ujrzeć różne dane na ten temat
+
+00:00:43.460 --> 00:00:46.719
+w naszym eksploratorze sieci Lightning.
+
+00:00:46.719 --> 00:00:51.289
+Pulpit mempool zawiera także szacowane
+poziomy opłat, które pomagają wyeliminować
+
+00:00:51.289 --> 00:00:54.989
+zgadywanie podczas wyboru właściwych opłat Twoich transakcji.
+
+00:00:54.989 --> 00:00:59.069
+Dla wydobywców, zbudowaliśmy pulpit
+udostępniający mające duże znaczenie metryki
+
+00:00:59.069 --> 00:01:05.480
+takie jak dane o opłatach, subsydium, trudności
+oraz statystyki prędkości haszowania, dominacja kolektywu i więcej.
+
+00:01:05.480 --> 00:01:09.720
+Nasze historyczne wykresy zbierają wszystkie te dane
+w jedno miejsce i wyświetlają je w czasie dzięki
+
+00:01:09.720 --> 00:01:12.280
+pięknie oddanym wizualizacjom.
+
+00:01:13.159 --> 00:01:17.350
+mempool.space nie ma reklam
+ani śledzenia użytkownika przez trzecie strony.
+
+00:01:17.350 --> 00:01:21.620
+Mimo to, zaufane trzecie strony są dziurami w bezpieczeństwie
+więc najbardziej prywatnym sposobem sprawdzania danych
+
+00:01:21.620 --> 00:01:25.570
+własnych adresów i transakcji jest poprzez
+swój własny węzeł bitcoin.
+
+00:01:25.570 --> 00:01:30.170
+Ułatwiamy to -- możesz zainstalować swoją
+własną instancję mempool space zaledwie
+
+00:01:30.170 --> 00:01:35.490
+jednym kliknięciem na dystrybucjach pełnego węzła
+opartych o Raspberry Pi, takich jak Umbrel, RaspiBlitz, Start9 EmbassyOS
+
+00:01:35.490 --> 00:01:42.250
+i innych -- lub, dla zaawansowanych użytkowników, zainstalować
+nasze gotowe obrazy Docker na własny server.
+
+00:01:42.250 --> 00:01:48.206
+Dodatkowo, mempool.space jest zintegrowany
+w rosnącej liczbie popularnych portfeli i giełd.
+
+00:01:48.490 --> 00:01:53.626
+Eksploruj cały ekosystem Bitcoina, z danymi
+z testnetu, signetu i Liquid
+
+00:01:53.626 --> 00:01:56.360
+a teraz także sieci Lightning.
+
+00:01:56.360 --> 00:02:01.840
+Skorzystaj z potężnego zestawu narzędzi, które ujawniają
+przydatne informacje o sieci bitcoin.
+
+00:02:01.840 --> 00:02:06.630
+Dzięki naszym hojnym sponsorom indywidualnym i korporacyjnym
+sponsorom, strona internetowa i oprogramowanie mempool.space
+
+00:02:06.630 --> 00:02:09.750
+są dostępne dla każdego.
+
+00:02:09.750 --> 00:02:14.000
+mempool.space nie ma żadnej zależności
+od zaufanych trzecich stron.
+
+00:02:14.000 --> 00:02:17.213
+Odwiedź nas pod adresem mempool.space.
+

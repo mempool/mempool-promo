@@ -1,0 +1,119 @@
+WEBVTT
+Kind: captions
+Language: cs
+
+00:00:01.189 --> 00:00:06.210
+Vítejte v mempool.space, open source projektu
+který poskytuje data a nástroje, díky kterým
+
+00:00:06.210 --> 00:00:08.570
+se vaše bitcoinové zkušenosti dostanou na vyšší úroveň.
+
+00:00:08.570 --> 00:00:13.860
+Náš mempool panel poskytuje okamžitý přehled
+o stavu mempoolu bitcoinového uzlu v reálném čase.
+
+00:00:14.700 --> 00:00:17.800
+Prohlédněte si bitcoinové bloky prostřednictvím
+naší jedinečné vizualizace.
+
+00:00:17.800 --> 00:00:23.255
+Čekající bloky mempoolu se zobrazují vlevo
+od bílé čáry a potvrzené bloky vpravo.
+
+00:00:23.840 --> 00:00:28.960
+Nahlédněte do čekajícího bloku mempoolu
+a získejte podrobnější přehled,
+
+00:00:28.960 --> 00:00:31.120
+včetně vizualizace zahrnutých transakcí.
+
+00:00:31.120 --> 00:00:34.710
+Pronikněte do detailů na úrovni transakce.
+
+00:00:34.710 --> 00:00:39.350
+A díky sledování v reálném čase můžete vidět
+okamžik potvrzení transakce!
+
+00:00:39.350 --> 00:00:43.460
+Pokud vaše transakce financuje nový lightningový
+kanál, můžete si o ní prohlédnout různé podrobnosti 
+
+00:00:43.460 --> 00:00:46.719
+v našem novém průzkumníku Lightning sítě.
+
+00:00:46.719 --> 00:00:51.289
+Domovská stránka obsahuje také panel pro
+odhad poplatků, který pomáhá zbavit se dohadů
+
+00:00:51.289 --> 00:00:54.989
+při výběru vhodného poplatku pro vaše transakce.
+
+00:00:54.989 --> 00:00:59.069
+Pro těžaře jsme vytvořili panel o těžbě bitcoinu,
+který poskytuje smysluplné metriky včetně údajů
+
+00:00:59.069 --> 00:01:05.480
+o poplatcích a odměnách, obtížnosti, hashrate,
+dominanci poolů a další údaje.
+
+00:01:05.480 --> 00:01:09.720
+Naše historické grafy sdružují všechna tato
+data a zobrazují je v čase prostřednictvím 
+
+00:01:09.720 --> 00:01:12.280
+krásně vykreslených vizualizací.
+
+00:01:13.159 --> 00:01:17.350
+mempool.space neobsahuje žádné reklamy
+ani sledování třetích stran.
+
+00:01:17.350 --> 00:01:21.620
+I přesto však důvěryhodné třetí strany představují
+bezpečnostní riziko a nejsoukromější způsob,
+
+00:01:21.620 --> 00:01:25.570
+jak vyhledávat vlastní adresy a transakce, je
+prostřednictvím vlastního bitcoinového uzlu.
+
+00:01:25.570 --> 00:01:30.170
+My vám to usnadníme -- můžete si nainstalovat
+vlastní instanci mempool space pouhým jedním kliknutím
+
+00:01:30.170 --> 00:01:35.490
+na distribucích Raspberry Pi full node jako je
+Umbrel, RaspiBlitz, Start9 EmbassyOS a další --
+
+00:01:35.490 --> 00:01:42.250
+nebo si mohou pokročilí uživatele nainstalovat
+naše předpřipravené Docker image na svůj vlastní server.
+
+00:01:42.250 --> 00:01:48.206
+Kromě toho je mempool.space integrován do stále
+většího počtu populárních peněženek a burz.
+
+00:01:48.490 --> 00:01:53.626
+Prozkoumejte celý ekosystém bitcoinu
+s údaji ze sítí testnet, signet, Liquid
+
+00:01:53.626 --> 00:01:56.360
+a nyní i Lightning network.
+
+00:01:56.360 --> 00:02:01.840
+Využijte výkonnou sadu nástrojů, které
+vám odhalí užitečné informace o bitcoinové síti.
+
+00:02:01.840 --> 00:02:06.630
+Díky štědrým individuálním i firemním sponzorům
+jsou webové stránky a software mempool.space
+
+00:02:06.630 --> 00:02:09.750
+ volně k dispozici komukoli.
+
+00:02:09.750 --> 00:02:14.000
+Samotný mempool.space je hostován na vlastních
+serverech bez důvěryhodných třetích stran.
+
+00:02:14.000 --> 00:02:17.213
+Navštivte nás na adrese mempool.space.
+
