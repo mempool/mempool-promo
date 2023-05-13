@@ -20,7 +20,7 @@ the white line, and confirmed blocks to the right.
 
 00:00:23.520 --> 00:00:27.680
 Take a peek within a forecasted mempool&nbsp;
-blog for a more granular view, including&nbsp;&nbsp;
+block for a more granular view, including&nbsp;&nbsp;
 
 00:00:27.680 --> 00:00:34.400
 a visualization of included transactions. Drill&nbsp;
@@ -32,7 +32,7 @@ a transaction confirms. If your transaction funds a&nbsp;&nbsp;
 
 00:00:40.480 --> 00:00:45.440
 new Lightning channel, you can see various details&nbsp;
-about it our new Lightning network explorer.
+about it in our new Lightning network explorer.
 
 00:00:46.480 --> 00:00:50.320
 The mempool dashboard also includes&nbsp;
@@ -79,7 +79,7 @@ your own server. Additionally, mempool.space is&nbsp;
 integrated into a growing number of popular&nbsp;&nbsp;
 
 00:01:46.000 --> 00:01:52.080
-wallets and exchange. Explore the full&nbsp;
+wallets and exchanges. Explore the full&nbsp;
 Bitcoin ecosystem with data from testnet,
 
 00:01:52.080 --> 00:01:59.280
